@@ -1,3 +1,3 @@
 # JJcondig Update
 
-CSS got so much batter!
+HTML & CSS are so much fun!
