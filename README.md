@@ -1,3 +1,0 @@
-# JJcoding
-
-Study HTML, CSS
