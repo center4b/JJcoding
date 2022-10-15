@@ -16,11 +16,13 @@
 }
 
 .screen-header__badge {
+  position: absolute;
+  top: 40px;
+  right: 20px;
   background-color: tomato;
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  position: absolute;
 }
 
 @keyframes rotateCog {
